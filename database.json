@@ -1,10 +1,10 @@
-[
+{
+  "users": [
     {
-        "OWNER": "FazzyDeveloper",
-        "EMAIL": "fazzmodssdev@gmail.com",
-        "ACCESS": true,
-        "USERNAME": "fazzy",
-        "PASSWORD": "hydrabeta"
+      "password": "sayukidev"
     }
-]
-
+      {
+      "api" : "8030571168:AAEKUjMl8_re-R663Yp6wEfZLmc6hAMfx8A"
+      }
+  ]
+}
